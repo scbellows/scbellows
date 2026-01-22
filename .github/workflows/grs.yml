@@ -43,6 +43,12 @@ jobs:
           options: username=readme-tools&repo=github-readme-stats
           path: profile/pin-readme-tools-github-readme-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Generate contribution graph
+        uses: Ashutosh00710/github-readme-activity-graph@v0.1.0
+        with:
+          card: contribution_graph
+          options: username=${{ github.repository_owner }}&theme=react&from=2023-09-01&to=2025-01-01
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
         run: |
