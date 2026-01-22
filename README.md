@@ -1,4 +1,15 @@
-## Hi there 👋
+
+# Hi, I'm Scott 👋
+
+## GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=scbellows&show_icons=true&include_all_commits=true&count_private=true)
+
+![Streak](https://streak-stats.demolab.com?user=scbellows)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=scbellows)
+
+## Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scbellows&layout=compact)
 
 <!--
 **scbellows/scbellows** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
