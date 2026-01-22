@@ -1,6 +1,6 @@
 # Hi, I'm Scott (He/Him) 👋 
 ## GitHub Stats 
-[![GitHub Stats](./profile/stats.svg)] 
+![GitHub Stats](./profile/stats.svg)
 <!-- NOT THE MOST FLATTERING GRAPH: [![Commit History](https://github-readme-activity-graph.vercel.app/graph?username=scbellows&theme=react)](https://github.com/scbellows/github-readme-activity-graph) --> <!--FOR NICK- this feature didnt work for me, but it does what it implies. ## Top Languages [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scbellows)](https://github.com/scbellows/github-readme-stats)--> 
 ## Languages: C++ (Primary), Python, Scala, SQL, VHDL
 
