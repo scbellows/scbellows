@@ -2,7 +2,7 @@
 # Hi, I'm Scott 👋
 
 ## GitHub Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=scbellows&card_width=1000&hide_rank=true&hide=stars&show_icons=true&theme=transparent)](https://github.com/scbellows/github-readme-stats)
+[![GitHub stats](./profile/stats.svg)]
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=scbellows)
 <!--FOR NICK- this feature didnt work for me, but it does what it implies.
