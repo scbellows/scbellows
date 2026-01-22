@@ -2,7 +2,7 @@
 # Hi, I'm Scott 👋
 
 ## GitHub Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=scbellows)](https://github.com/scbellows/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=scbellows&show_icons=true)](https://github.com/scbellows/github-readme-stats)
 
 ![Streak](https://streak-stats.demolab.com?user=scbellows)
 
