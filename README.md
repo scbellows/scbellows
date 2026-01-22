@@ -2,14 +2,13 @@
 # Hi, I'm Scott 👋
 
 ## GitHub Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=scbellows&show_icons=true)](https://github.com/scbellows/github-readme-stats)
-
-![Streak](https://streak-stats.demolab.com?user=scbellows)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=scbellows&card_width=1000&hide_rank=true&hide=stars&show_icons=true&theme=transparent)](https://github.com/scbellows/github-readme-stats)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=scbellows)
-
+<!--FOR NICK- this feature didnt work for me, but it does what it implies.
 ## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scbellows&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scbellows)](https://github.com/scbellows/github-readme-stats)-->
+
 
 <!--
 **scbellows/scbellows** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
